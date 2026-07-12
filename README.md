@@ -1,7 +1,11 @@
 # Hi, I'm Vaishnavi 👋🏻 💻
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/165e796c-04b8-4a56-b75c-78652ec57a78" alt="Vaishnavi Banner" width="100%" />
+  <img
+    src="https://raw.githubusercontent.com/vaishnavikhatri3/vaishnavikhatri3/main/banner.png"
+    alt="Vaishnavi Banner"
+    width="100%"
+  />
 </p>
 <table width="100%">
 <tr>
